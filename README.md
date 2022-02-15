@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamsarina
-- 👀 A Product Deisgnern
+- 👀 A Product Designer
 - 🌱 I’m currently obsessed with design systems
 - 📫 How to reach me sarinalucehtta.com
 
