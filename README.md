@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamsarina
-- 👀 I’m interested in Design
-- 🌱 I’m currently learning HTML + CSS
+- 👀 A Product Deisgnern
+- 🌱 I’m currently obsessed with design systems
 - 📫 How to reach me sarinalucehtta.com
 
 <!---
