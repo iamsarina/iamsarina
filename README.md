@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @iamsarina
-- 👀 A Product Designer
+👋 Hi, some fun facts about me:
+- 👀 I am Product Designer
 - 🌱 I’m currently obsessed with design systems
-- 📫 How to reach me sarinalucehtta.com
+- 📫 How you can reach me sarinalucehtta.com
 
 <!---
 iamsarina/iamsarina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
